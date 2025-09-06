@@ -21,12 +21,13 @@ Customize content and styles as needed
 
 ## 📸 Screenshots
 
-![Home Page]<img width="1347" height="646" alt="Screenshot_1" src="https://github.com/user-attachments/assets/9118e46b-6dc8-4fc3-b993-b18d5525246b" />
+<img width="1347" height="646" alt="Screenshot_1" src="https://github.com/user-attachments/assets/5dd0e56c-6fce-4dcf-9118-25252ee606dc" />
 
-![Menu Page]<img width="1352" height="640" alt="Screenshot_2" src="https://github.com/user-attachments/assets/d81e74fe-5994-4f90-b9f9-82f496460fea" />
+<img width="1352" height="640" alt="Screenshot_2" src="https://github.com/user-attachments/assets/8c19bb30-091d-463b-819d-658d1b21752a" />
 
-![Menu Page]<img width="1349" height="641" alt="Screenshot_3" src="https://github.com/user-attachments/assets/28d62c92-58a6-4400-9526-35bc49498901" />
+<img width="1349" height="641" alt="Screenshot_3" src="https://github.com/user-attachments/assets/3f00d4dc-4559-41b9-a301-b369c08c1abd" />
 
-![Menu Page]<img width="1330" height="638" alt="Screenshot_4" src="https://github.com/user-attachments/assets/9da34b66-b1da-49cb-b040-f84f8036866a" />
+<img width="1330" height="638" alt="Screenshot_4" src="https://github.com/user-attachments/assets/9118ffc1-fec0-402f-9948-edf379b7c9aa" />
+
 
 
